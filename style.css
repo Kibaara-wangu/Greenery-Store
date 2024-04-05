@@ -1,0 +1,157 @@
+#Website{
+    border: solid 3px;
+    font-size: 20px;
+}
+.head{
+    display: flex;
+    justify-content: space-evenly;   
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    display: flex;
+}
+#image{
+    display: flex;
+    gap: 10px;
+    background-color: beige;
+    text-align: center;
+    font-size: 20px;
+    gap: 60px;
+    
+}
+.image1{
+  background-image: url("images/1.webp");
+  height: 600px;
+  width: 800px;
+  background-repeat: no-repeat;
+  margin-left: 10%;
+  margin-top: 10%; 
+  border-radius: 30px;
+}
+.word{
+    color: white;
+    font-size: 40px;
+}
+.image2{
+    background-image: url("images/g1.jpg");
+    height: 250px;
+    width: 300px;
+    background-repeat: no-repeat;
+    width: 100%;
+    border-radius: 30px;
+  
+}
+.image3{
+    background-image: url("images/g3.jpg");
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 400px;
+
+    width: 50%;
+    height: 150px;
+}
+.icons{
+    width: 50px;
+    height: 50px;
+}
+#text{
+    margin-bottom: 50%;
+}
+.images23{
+    margin-right: 20%;
+    margin-top: 10%;
+}
+.section1{
+    background-image: url("images/S1.jpeg");
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 200px;
+}
+.section2{
+    background-image: url("images/S2.jpeg");
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 200px; 
+}
+.section3{
+    background-image: url("images/S3.jpeg");
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 200px;
+}
+#section{
+    display: flex;
+    gap: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+.words{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 10%;
+    font-size: 20px;
+}
+#body{
+   display: flex;
+   gap: 300px;
+   background-color: beige;
+   margin-left: 5%;
+   margin-right: 5%;
+}
+.body001{
+    display: flex;
+}
+button{
+    color: white;
+    background-color: green;
+}
+.feature{
+    margin-left: 40%;
+}
+
+.vaces{
+    display: flex;
+    gap: 400px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color:bisque;
+    margin-left: 3%;
+    margin: 10%;
+
+}
+.leaves{
+    background-image: url("images/leaves1.png");
+}
+.plants{
+    display: flex;
+    gap: 300px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.latest{
+    display: flex;
+    gap: 100px;
+    gap: 300px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.word{
+    margin-left: 10%;
+}
+#sentence{
+    margin: 50%;
+}
+.foot{
+    display: flex;
+    margin: 10%;
+    gap: 300px;
+}
+.icon{
+    gap: 20px;
+}
+@media all and (min-width:200px) and (max-width:1300px) {
+    
+}
